@@ -1,0 +1,5 @@
+#!usr/bin/env ruby
+
+require 'bramgem'
+
+puts Bramgem::Sentence.sentence
